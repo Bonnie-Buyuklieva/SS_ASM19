@@ -4,3 +4,6 @@ description: The official page.
 show_downloads: true
 google_analytics: 
 theme: jekyll-theme-minimal
+repository: henry/henrydf.github.io
+plugins_dir:
+  - jekyll-seo-tag
