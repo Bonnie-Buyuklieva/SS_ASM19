@@ -1,9 +1,9 @@
-title: Summer School in Advanced Spatial Modelling
-logo: /assets/img/casa_logo.png
-description: The official page.
+title: SS-ASM19
+logo: /assets/img/noun_Urban Agglomeration_1724623.png
+description: 21-23 Aug. 2019 &mdash; London, UCL 
 show_downloads: true
-google_analytics: 
+google_analytics: "UA-139552403-1"
 theme: jekyll-theme-minimal
-repository: henry/henrydf.github.io
+repository: Bonnie-Buyuklieva/SS_ASM19
 plugins_dir:
   - jekyll-seo-tag
