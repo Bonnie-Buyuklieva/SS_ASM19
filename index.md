@@ -12,7 +12,7 @@ The purpose of this workshop is threefold: firstly, to **warm participants up to
 
 
 
-> [Syllabus](./another-page.html).
+[Syllabus](./another-page.html).
 
 [Application Selection Criteria](./another-page.html).
 
