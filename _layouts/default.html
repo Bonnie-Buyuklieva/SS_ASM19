@@ -16,30 +16,36 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <img src="{{site.logo | relative_url}}" alt="Logo" /> 
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-
-
-
-          <p class="view"><big>
-          <a href="https://forms.gle/Ja6qRX63hWiYSJTE6">Apply here!</a>
-          </big></p>
           
+    <!--MOST IMPORTANT BUTTON!-->       
+        <ul class="view"><big>
+          <a href="https://forms.gle/Ja6qRX63hWiYSJTE6">Apply here!</a>
+         </big></ul>
+
       </header>
+        
+
+        
+    <!--INCLUDES index.md here-->       
       <section>
+     {{ content }} 
       </section>
           
   
-          
+     
+        
+        
           
     <!--FOOTER HERE-->          
       <footer> 
 
-          <img src="https://bit.ly/2VdvlF3">
-          <!--Fiz HERE <img src="/assets/img/EPSRC.png">   -->
+          
+          <img src="assets/img/EPSRC.png">
         
           <p>Funding from <a href="https://epsrc.ukri.org/about/">EPSRC</a>.<br>
            Hosted by <a href="{{ https://www.ucl.ac.uk/bartlett/casa/ }}"> CASA, UCL</a>.
