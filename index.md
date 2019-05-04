@@ -4,7 +4,7 @@ layout: default
 
 # Doctoral Summer School for Advanced Spatial Modelling: 
 
-## Skills Workshop and with Hackathon 
+## Skills Workshop and Hackathon 
 
 > Get good people together, treat them well and good projects will come.  
 
