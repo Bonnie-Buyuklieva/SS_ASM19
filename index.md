@@ -10,14 +10,16 @@ layout: default
 
 The purpose of this workshop is threefold: firstly, to **warm participants up to key quantitative methods** and **introduce them to core spatial modelling methods**; secondly, **apply these methods** in the context of <a href="https://www.gov.uk/government/topical-events/the-uks-industrial-strategy">National Industrial Strategy</a> and creating new governmental geography products; finally, **foster collaborations opportunities** between PhD students from different institutions through the hackathon and subsequent conference attendance award. 
 
-[Applicant Selection Criteria](./another-page.html)
+[Applicant Selection Criteria](./p_another-page.html)
+
+[Timeline](./p_timeline.html)
 
 [Schedule](./p_schedule.html)
 
-[Speakers](./another-page.html)
+[Speakers](./p_speakers.html)
 
-[About](./another-page.html)
+[About](./p_about.html)
 
-[FAQ](./another-page.html)
+[FAQ](./p_FAQ.html)
 
 
