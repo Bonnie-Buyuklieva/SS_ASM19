@@ -14,7 +14,7 @@ The purpose of this workshop is threefold: firstly, to **warm participants up to
 
 [Timeline](./p_timeline.html)
 
-[Schedule](./p_schedule.html)
+[Timetable](./p_timetable.html)
 
 [Speakers](./p_speakers.html)
 
