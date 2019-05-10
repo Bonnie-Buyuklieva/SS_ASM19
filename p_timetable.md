@@ -4,6 +4,8 @@ layout: default
 
 ## Syllabus and Tutors
 
+The objective of the syllabus is to warm participants up to key quantitative methods and introduce them to core spatial modelling methods. There will be a strong focus on demonstrating these methods with code snippets and coding demonstrations which participants can experiment with and build upon. Over half the lesson time on the first two days is assigned to hands on coding and analysis with the support of the course tutors. 
+
 ### Day 1
 
 <html>
@@ -44,7 +46,6 @@ layout: default
     	<b>Spatial data and statistics 3: tbc</b><br>Data validation</p>
   </div>
 </div>
-
 </body>
 </html>
 
@@ -175,7 +176,7 @@ Hackathon!
 	<tr>
 		<td>10:30</td>
 		<td>Statistical models: Linear regression, ANOVA</td>
-		<td>Networks: Centrality and betweeness</td>
+		<td>Networks: Centrality and betweenness</td>
 	</tr>
 	<tr>
 		<td>11:00</td>
@@ -184,8 +185,8 @@ Hackathon!
 	</tr>
 	<tr>
 		<td>11:30</td>
-		<td rowspan="3">Practicle examples</td>
-		<td rowspan="3">Practicle examples</td>
+		<td rowspan="3">Practical examples</td>
+		<td rowspan="3">Practical examples</td>
 	</tr>
 	<tr>
 		<td>12:00</td>
