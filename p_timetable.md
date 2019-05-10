@@ -4,9 +4,13 @@ layout: default
 
 ## Syllabus and Tutors
 
-The objective of the syllabus is to warm participants up to key quantitative methods and introduce them to core spatial modelling methods. There will be a strong focus on demonstrating these methods with code snippets and coding demonstrations which participants can experiment with and build upon. Over half the lesson time on the first two days is assigned to hands on coding and analysis with the support of the course tutors. 
+The objective of the syllabus is to warm participants up to key quantitative methods and introduce them to core spatial modelling methods. There will be a strong focus on demonstrating these methods with code snippets and coding demonstrations which participants can experiment with and build upon. Over half the lesson time on the first two days is assigned to hands on coding and analysis with the support of the course tutors.
+
+***
 
 ### Day 1
+
+Day 1 will start by introducing important statistical measures, modelling techniques and cluster analysis. The second part of the day will cover working with vector spatial data and key spatial statistics.
 
 <html>
 <head>
@@ -21,7 +25,6 @@ The objective of the syllabus is to warm participants up to key quantitative met
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -37,7 +40,7 @@ The objective of the syllabus is to warm participants up to key quantitative met
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
     <p><b>Statistics 1: tbc</b><br>Descriptive statistic<br>Regression<br><br>
-    	<b>Statistics 2: tbs</b><br>Linear regression models<br>Other statistical modesl<br><br>
+    	<b>Statistics 2: tbc</b><br>Linear regression models<br>Other statistical models<br><br>
     	<b>Classification: tbc</b><br>Cluster analysis</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
@@ -50,6 +53,8 @@ The objective of the syllabus is to warm participants up to key quantitative met
 </html>
 
 ### Day 2
+
+Day 2 will start by covering the skills required to perform network analysis on geographic data. The second part of the day will cover working with raster data and satellite imagery.
 
 <html>
 <head>
@@ -83,14 +88,14 @@ The objective of the syllabus is to warm participants up to key quantitative met
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
     <p><b>Networks 1: tbc</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br><br>
-    	<b>Networks 2: Elsa Arcatue</b><br>Centrality and betweeness<br><br>
+    	<b>Networks 2: Elsa Arcatue</b><br>Centrality and betweenness<br><br>
     	<b>Networks 3: Gareth Simons</b><br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br><br>
     </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Raster data and satelite imagery 1: tbc</b><br>What is Raster data?<br><br>
-    	<b>Raster data and satelite imagery 2: tbc</b><br>Raster data classification<br><br>
-    	<b>Raster data and satelite imagery 3: tbc</b><br>Working with satelite imagery<br><br>
+    <p><b>Raster data and satellite imagery 1: tbc</b><br>What is Raster data?<br><br>
+    	<b>Raster data and satellite imagery 2: tbc</b><br>Raster data classification<br><br>
+    	<b>Raster data and satellite imagery 3: tbc</b><br>Working with satellite imagery<br><br>
     </p>
   </div>
 </div>
@@ -102,6 +107,8 @@ The objective of the syllabus is to warm participants up to key quantitative met
 ### Day 3
 
 Hackathon!
+
+***
 
 ### Timetable
 
