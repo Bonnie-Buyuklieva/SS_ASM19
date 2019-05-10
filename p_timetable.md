@@ -4,24 +4,103 @@ layout: default
 
 ## Syllabus and Tutors
 
-
 ### Day 1
 
-| **Statistics 1: tbc**<br>Descriptive statistic<br>Regression | **Spatial data and statistics 1: tbc**<br>Spatial data formats and databases |
-| **Statistics 2: tbs**<br>Linear regression models<br>Other statistical modesl | **Spatial data and statistics 2: tbc**<br>Spatial statistics |
-| **Classification: tbc**<br>Cluster analysis | **Spatial data and statistics 3: tbc**<br>Data validation |
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
 
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column" style="background-color:#ffffff;">
+    <p><b>Statistics 1: tbc</b><br>Descriptive statistic<br>Regression<br><br>
+    	<b>Statistics 2: tbs</b><br>Linear regression models<br>Other statistical modesl<br><br>
+    	<b>Classification: tbc</b><br>Cluster analysis</p>
+  </div>
+  <div class="column" style="background-color:#ffffff;">
+    <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats and databases<br><br>
+    	<b>Spatial data and statistics 2: tbc</b><br>Spatial statistics<br><br>
+    	<b>Spatial data and statistics 3: tbc</b><br>Data validation</p>
+  </div>
+</div>
+
+</body>
+</html>
 
 ### Day 2
 
-| **Networks 1: tbc**<br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br> | **Raster data and satelite imagery 1: tbc**<br>What is Raster data? |
-| **Networks 2: Elsa Arcatue**<br>Centrality and betweeness | **Raster data and satelite imagery 2: tbc**<br>Raster data classification |
-| **Networks 3: Gareth Simons**<br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br> | **Raster data and satelite imagery 3: tbc**<br>Working with satelite imagery |
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+  /*border-color: white;
+  background-color: white;*/
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+
+<body>
+
+<div class="row">
+  <div class="column" style="background-color:#ffffff;">
+    <p><b>Networks 1: tbc</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br><br>
+    	<b>Networks 2: Elsa Arcatue</b><br>Centrality and betweeness<br><br>
+    	<b>Networks 3: Gareth Simons</b><br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br><br>
+    </p>
+  </div>
+  <div class="column" style="background-color:#ffffff;">
+    <p><b>Raster data and satelite imagery 1: tbc</b><br>What is Raster data?<br><br>
+    	<b>Raster data and satelite imagery 2: tbc</b><br>Raster data classification<br><br>
+    	<b>Raster data and satelite imagery 3: tbc</b><br>Working with satelite imagery<br><br>
+    </p>
+  </div>
+</div>
+</body>
+</html>
+
+<br> <!--- An extra line break needed here --->
 
 ### Day 3
 
-**Hackathon!**
+Hackathon!
 
 ### Timetable
 
