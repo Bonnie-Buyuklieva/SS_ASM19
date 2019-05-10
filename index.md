@@ -189,41 +189,48 @@ Hackathon!
 }
 
 #timetable thead {
-  background: #433E4C;
-  color: white;
+  background: #ffffff; /*433E4C*/
 }
 
+/* controls header */
 #timetable th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  color: white;
 }
-
-/* stop alternate colouring
-#timetable tr:nth-child(even){background-color: #f2f2f2;}
-*/
-
-#timetable td:hover {background-color: #ddd;}
-
 
 #timetable tr {
   border-bottom: 2px solid #ddd;
   padding: 8px;
 }
 
-
-/*
-#timetable td {
-  border: 1px solid #ddd;
-  padding: 8px;
+td:nth-child(2) {
+  color: white;
 }
-*/
+
+td:nth-child(3) {
+  color: white;
+}
+
+td:nth-child(4) {
+  color: white;
+}
+
+td[colspan="3"] {
+    text-align: center;
+}
+
 
 </style>
 </head>
 <body>
 <table id="timetable">
+<colgroup>
+    <col class="timecol" />
+    <col class="day1col" />
+    <col class="day2col" />
+    <col class="day3col" />
+  </colgroup>
 	<thead>
 	<tr>
 		<th>Time</th>
@@ -234,24 +241,24 @@ Hackathon!
 	</thead>
 	<tr>
 		<td>10:00</td>
-		<td>Statistics 1</td>
-		<td>Networks 1</td>
-		<td rowspan="6">Group project</td>
+		<td bgcolor="#575795">Statistics 1</td>
+		<td bgcolor="#b3cce9">Networks 1</td>
+		<td rowspan="6" bgcolor="#6d9e8e">Group project</td>
 	</tr>
 	<tr>
 		<td>10:30</td>
-		<td>Statistics 2</td>
-		<td>Networks 2</td>
+		<td bgcolor="#575795">Statistics 2</td>
+		<td bgcolor="#b3cce9">Networks 2</td>
 	</tr>
 	<tr>
 		<td>11:00</td>
-		<td>Cluster analysis</td>
-		<td>Networks 3</td>
+		<td bgcolor="#575795">Cluster analysis</td>
+		<td bgcolor="#b3cce9">Networks 3</td>
 	</tr>
 	<tr>
 		<td>11:30</td>
-		<td rowspan="3">Practical examples</td>
-		<td rowspan="3">Practical examples</td>
+		<td rowspan="3" bgcolor="#53a9aa">Practical examples</td>
+		<td rowspan="3" bgcolor="#53a9aa">Practical examples</td>
 	</tr>
 	<tr>
 		<td>12:00</td>
@@ -261,40 +268,40 @@ Hackathon!
 	</tr>
 	<tr>
 		<td>13:00</td>
-		<td rowspan="2">Lunch</td>
-		<td rowspan="2">Lunch</td>
-		<td rowspan="2">Lunch</td>
+		<td rowspan="2" bgcolor="#aaa9a9">Lunch</td>
+		<td rowspan="2" bgcolor="#aaa9a9">Lunch</td>
+		<td rowspan="2" bgcolor="#aaa9a9">Lunch</td>
 	</tr>
 	<tr>
 		<td>13:30</td>
 	</tr>
 	<tr>
 		<td>14:00</td>
-		<td>Spatial data and statistics 1</td>
-		<td>Raster data and satellite imagery 1</td>
-		<td rowspan="3">Group project</td>
+		<td bgcolor="#463c71">Spatial data and statistics 1</td>
+		<td bgcolor="#92afd8">Classifying satellite imagery 1</td>
+		<td rowspan="3" bgcolor="#6d9e8e">Group project</td>
 	</tr>
 	<tr>
 		<td>14:30</td>
-		<td>Spatial data and statistics 2</td>
-		<td>Raster data and satellite imagery 2</td>
+		<td bgcolor="#463c71">Spatial data and statistics 2</td>
+		<td bgcolor="#92afd8">Classifying satellite imagery 2</td>
 	</tr>
 	<tr>
 		<td>15:00</td>
-		<td>Spatial data and statistics 3</td>
-		<td>Raster data and satellite imagery 3</td>
+		<td bgcolor="#463c71">Spatial data and statistics 3</td>
+		<td bgcolor="#92afd8">Classifying satellite imagery 3</td>
 	</tr>
 	<tr>
 		<td>15:30</td>
-		<td>Break</td>
-		<td>Break</td>
-		<td>Break</td>
+		<td bgcolor="#aaa9a9">Break</td>
+		<td bgcolor="#aaa9a9">Break</td>
+		<td bgcolor="#aaa9a9">Break</td>
 	</tr>
 	<tr>
 		<td>16:00</td>
-		<td rowspan="4">Group project</td>
-		<td rowspan="4">Group project</td>
-		<td rowspan="4">Group project</td>
+		<td rowspan="4" bgcolor="#6d9e8e">Group project</td>
+		<td rowspan="4" bgcolor="#6d9e8e">Group project</td>
+		<td rowspan="4" bgcolor="#6d9e8e">Group project</td>
 	</tr>
 	<tr>
 		<td>16:30</td>
@@ -307,11 +314,17 @@ Hackathon!
 	</tr>
 	<tr>
 		<td>18:00</td>
-		<td>Day end</td>
-		<td>Day end</td>
-		<td>Day end</td>
+		<td rowspan="4" colspan="3" bgcolor="#e9cbc7">Evening events</td>
+	</tr>
+		<tr>
+		<td>18:30</td>
+	</tr>
+		<tr>
+		<td>19:00</td>
+	</tr>
+		<tr>
+		<td>19:30</td>
 	</tr>
 </table>
 </body>
 </html>
-
