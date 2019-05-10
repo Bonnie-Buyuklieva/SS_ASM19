@@ -229,20 +229,21 @@ body {
 ## Who are we looking for?
 We are looking for enthusiastic PhD students who would like to learn the basics of spatial data analysis, share their own methods, and work collaboratively to apply these techniques to interesting datasets.
 
-* * *
+We also want to bring together people working in a diverse range of research domains but that might benefit from or involve some quantitative spatial analysis. We will be covering many topics in a short amount of time and some experience using tools such as Python, R and QGIS for geography analysis will be beneficial but not necessary 
 
-To summarise, here are some bullet points listing some of the qualities we are looking for. If you are in any doubt please get in touch!
+Here are some bullet points listing some of the qualities we are looking for. If you are in any doubt please get in touch!
 
 Essential
 
-*   Willing to participate and collaborate
-*   Using or planning to use quantitative spatial analysis in you research 
-*   Familiarity with geographic data and computational methods for working with such data
+* Willing and able to attend the full three days and play nice and be a good teammate
+* Some experience in data analysis and a desire to learn more quite quickly
+* Interest in using data analysis to address the [Grand Challenges](https://www.gov.uk/government/publications/industrial-strategy-the-grand-challenges/industrial-strategy-the-grand-challenges) set out in the governments' Industrial Strategy
 
 Nice to have
 
-*  	Experience with Python/Jupyter Notebook or R/RStudio
-*   Interesting research project that will benefit from attending the summer school
+* Experience with Python/Jupyter Notebook or R/RStudio
+* Interesting research project that will benefit from attending the summer school
+* Familiarity with geographic data and computational methods for working with such data
 
 *** 
 
