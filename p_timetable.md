@@ -87,15 +87,15 @@ Day 2 will start by covering the skills required to perform network analysis on 
 
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Networks 1: tbc</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br><br>
+    <p><b>Networks 1: tbc</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
     	<b>Networks 2: Elsa Arcatue</b><br>Centrality and betweenness<br><br>
     	<b>Networks 3: Gareth Simons</b><br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br><br>
     </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Raster data and satellite imagery 1: tbc</b><br>What is Raster data?<br><br>
-    	<b>Raster data and satellite imagery 2: tbc</b><br>Raster data classification<br><br>
-    	<b>Raster data and satellite imagery 3: tbc</b><br>Working with satellite imagery<br><br>
+    <p><b>Classifying satellite imagery 1: tbc</b><br>Sources of raster data<br>Stack, mosaic and clip raster data<br><br>
+    	<b>Classifying satellite imagery 2: tbc</b><br>Normalised differencing<br>Thresholding and sub-setting images<br><br>
+    	<b>Classifying satellite imagery 3: tbc</b><br>Unsupervised classification<br>Supervised classification<br>Model evaluation<br><br>
     </p>
   </div>
 </div>
@@ -213,18 +213,18 @@ Hackathon!
 	<tr>
 		<td>14:00</td>
 		<td>Spatial data and statistics 1</td>
-		<td>Raster data and satellite imagery 1</td>
+		<td>Classifying satellite imagery 1</td>
 		<td rowspan="3">Group project</td>
 	</tr>
 	<tr>
 		<td>14:30</td>
 		<td>Spatial data and statistics 2</td>
-		<td>Raster data and satellite imagery 2</td>
+		<td>Classifying satellite imagery 2</td>
 	</tr>
 	<tr>
 		<td>15:00</td>
 		<td>Spatial data and statistics 3</td>
-		<td>Raster data and satellite imagery 3</td>
+		<td>Classifying satellite imagery 3</td>
 	</tr>
 	<tr>
 		<td>15:30</td>
