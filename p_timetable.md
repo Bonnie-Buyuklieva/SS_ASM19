@@ -41,7 +41,7 @@ Day 1 will start by introducing important statistical measures, modelling techni
   <div class="column" style="background-color:#ffffff;">
     <p><b>Statistics 1: tbc</b><br>Descriptive statistic<br>Regression<br><br>
     	<b>Statistics 2: tbc</b><br>Linear regression models<br>Other statistical models<br><br>
-    	<b>Classification: tbc</b><br>Cluster analysis</p>
+    	<b>Cluster analysis: tbc</b><br></p>
   </div>
   <div class="column" style="background-color:#ffffff;">
     <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats and databases<br><br>
@@ -176,19 +176,19 @@ Hackathon!
 	</thead>
 	<tr>
 		<td>10:00</td>
-		<td>Statistics: Descriptives and regression</td>
-		<td>Networks: Introduction to graph theory</td>
+		<td>Statistics 1</td>
+		<td>Networks 1</td>
 		<td rowspan="6">Group project</td>
 	</tr>
 	<tr>
 		<td>10:30</td>
-		<td>Statistical models: Linear regression, ANOVA</td>
-		<td>Networks: Centrality and betweenness</td>
+		<td>Statistics 2</td>
+		<td>Networks 2</td>
 	</tr>
 	<tr>
 		<td>11:00</td>
-		<td>Clustering</td>
-		<td>Networks: Analysing road networks</td>
+		<td>Cluster analysis</td>
+		<td>Networks 3</td>
 	</tr>
 	<tr>
 		<td>11:30</td>
@@ -212,19 +212,19 @@ Hackathon!
 	</tr>
 	<tr>
 		<td>14:00</td>
-		<td>Spatial statistics</td>
-		<td>Raster data intro</td>
+		<td>Spatial data and statistics 1</td>
+		<td>Raster data and satellite imagery 1</td>
 		<td rowspan="3">Group project</td>
 	</tr>
 	<tr>
 		<td>14:30</td>
-		<td>Spatial data formats/spatial databases</td>
-		<td>Raster data classification</td>
+		<td>Spatial data and statistics 2</td>
+		<td>Raster data and satellite imagery 2</td>
 	</tr>
 	<tr>
 		<td>15:00</td>
-		<td>Data validation</td>
-		<td>Working with satelite imagery</td>
+		<td>Spatial data and statistics 3</td>
+		<td>Raster data and satellite imagery 3</td>
 	</tr>
 	<tr>
 		<td>15:30</td>
