@@ -2,7 +2,28 @@
 layout: default
 ---
 
-## Timetable
+## Syllabus and Tutors
+
+
+### Day 1
+
+| **Statistics 1: tbc**<br>Descriptive statistic<br>Regression | **Spatial data and statistics 1: tbc**<br>Spatial data formats and databases |
+| **Statistics 2: tbs**<br>Linear regression models<br>Other statistical modesl | **Spatial data and statistics 2: tbc**<br>Spatial statistics |
+| **Classification: tbc**<br>Cluster analysis | **Spatial data and statistics 3: tbc**<br>Data validation |
+
+
+
+### Day 2
+
+| **Networks 1: tbc**<br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br> | **Raster data and satelite imagery 1: tbc**<br>What is Raster data? |
+| **Networks 2: Elsa Arcatue**<br>Centrality and betweeness | **Raster data and satelite imagery 2: tbc**<br>Raster data classification |
+| **Networks 3: Gareth Simons**<br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br> | **Raster data and satelite imagery 3: tbc**<br>Working with satelite imagery |
+
+### Day 3
+
+**Hackathon!**
+
+### Timetable
 
 <!---
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/DNpWCDNx03IXlETSac" width="100%" height="100%" style="position:absolute" frameBorder="0" ></iframe></div><p><a href="https://giphy.com/gifs/mailchimp-dance-teamwork-conga-line-DNpWCDNx03IXlETSac">Site still under construction.</a></p>
@@ -148,59 +169,5 @@ layout: default
 </table>
 </body>
 </html>
-
-
-## Syllabus and Tutors
-
-
-### Day 1
-
-**Statistics 1: tbc**<br>Descriptive statistic<br>Regression
-
-**Statistics 2: tbs**<br>
-Linear regression models<br>
-Other statistical modesl
-
-**Statistics 3: tbc**<br>
-Cluster analysis
-
-***
-
-**Spatial data and statistics 1: tbc**<br>
-Spatial data formats and databases
-
-**Spatial data and statistics 2: tbc**<br>
-Spatial statistics
-
-**Spatial data and statistics 3: tbc**<br>
-Data validation
-
-### Day 2
-
-**Networks 1: tbc**<br>
-Directed vs undirected graphs<br>
-Adjacency matrices and node degree<br>
-Degree distribution<br>
-Connectivity<br>
-
-**Networks 2: Elsa Arcatue**<br>
-Centrality and betweeness
-
-**Networks 3: Gareth Simons**<br>
-Constructing graphs from road network data<br>
-Introduction to the OSMnx Python library<br>
-Introduction to the cityseer library<br>
-
-***
-
-**Raster data and satelite imagery 1: tbc**<br>
-What is Raster data?
-
-**Raster data and satelite imagery 2: tbc**<br>
-Raster data classification
-
-**Raster data and satelite imagery 3: tbc**<br>
-Working with satelite imagery
-
 
 [back](./)
