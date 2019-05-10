@@ -57,7 +57,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: black;
+  background-color: #575795;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -80,7 +80,7 @@ body {
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #575795;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -135,6 +135,7 @@ body {
   background-color: white;
   position: relative;
   border-radius: 6px;
+  color: #727272;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
