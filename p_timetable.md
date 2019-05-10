@@ -166,6 +166,8 @@ Statistics 2: tbs
 Statistics 3: tbc
 * Cluster analysis
 
+***
+
 Spatial data and statistics 1: tbc
 * Spatial data formats and databases
 
@@ -191,6 +193,7 @@ Networks 3: Gareth Simons
 * Introduction to the OSMnx Python library
 * Introduction to the cityseer library
 
+***
 
 Raster data and satelite imagery 1: tbc
 * What is Raster data?
