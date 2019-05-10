@@ -26,26 +26,208 @@ Not only that but there are **PRIZES** up for grabs for the hackathon winners in
 *** 
 
 ***
+
+[Application timeline](#application-timeline) \| [Who are we looking for?](#who-are-we-looking-for) \| [Syllabus and Tutors](#syllabus-and-tutors) \| [Timetable](#timetable)
+
 <br>
 
-<!---
-[Applicant Selection Criteria](./p_criteria.html)
+## Application timeline
 
-[Syllabus // Tutors // Timetable](./p_timetable.html)
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-[Timeline](./p_timeline.html)
+<!--- logic stuff, hopefully no touchie. See example here: https://bit.ly/2V3h8W0  --->
+body {
+  font-family: Helvetica, sans-serif;
+}
 
-[About](./p_about.html)
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 
-[FAQ](./p_FAQ.html)
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: black;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
 
---->
+/* Container around content */
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: white;
+  border: 4px solid #FF9F55;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Place the container to the left */
+.left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.right {
+  left: 50%;
+}
+
+/* Add arrows to the left container (pointing right) */
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent gray;
+}
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent gray transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .timeline::after {
+  left: 31px;
+  }
+  
+  /* Full-width containers */
+  .container {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+  }
+  
+  /* Make sure that all arrows are pointing leftwards */
+  .container::before {
+  left: 60px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+  }
+
+  /* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+  left: 15px;
+  }
+  
+  /* Make all right containers behave like the left ones */
+  .right {
+  left: 0%;
+  }
+}
+
+
+
+<!--- MAKE EDITS HERE!  --->
+</style>
+</head>
+<body>
+
+<div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2>24th May</h2>
+      <p>Applications open for EPSRC funded students</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>31st May</h2>
+      <p>Applciations open for all students</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>19th July</h2>
+      <p>Application deadline</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>26th July</h2>
+      <p>Successful participants invited to attened the Summer School</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>2nd August</h2>
+      <p>Deadline for accepting invitations</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>16th August</h2>
+      <p>Accommodation and travel booked</p>
+    </div>
+  </div>
+</div>
+
+</body>
+
+<br>
+
+***
+
+***
+
+<br>
 
 ## Who are we looking for?
-We are looking for enthusiastic PhD students who would like to learn new quantitative spatial analysis techniques, share their own methods and techniques with others, and work collaboratively to apply these techniques to interesting datasets.
-
-Our hope is to bring together early stage PhD students working on diverse research questions involving some aspect of quantitative spatial analysis. We will be covering many topics in a short amount of time and some experience using tools such as Python, R and QGIS for geography analysis will be very beneficial. 
-
+We are looking for enthusiastic PhD students who would like to learn the basics of spatial data analysis, share their own methods, and work collaboratively to apply these techniques to interesting datasets.
 
 * * *
 
