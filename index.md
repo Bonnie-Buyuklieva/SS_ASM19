@@ -94,9 +94,9 @@ Day 1 will start by introducing important statistical measures, modelling techni
 
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Statistics 1: tbc</b><br>Descriptive statistic<br>Regression<br><br>
-    	<b>Statistics 2: tbc</b><br>Linear regression models<br>Other statistical models<br><br>
-    	<b>Cluster analysis: tbc</b><br></p>
+    <p><b>Statistics 1: tbc</b><br>Summarise and compare data<br>Simple linear regression<br><br>
+    	<b>Statistics 2: tbc</b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
+    	<b>Cluster analysis: tbc</b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
     <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats and databases<br><br>
@@ -142,15 +142,15 @@ Day 2 will start by covering the skills required to perform network analysis on 
 
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Networks 1: tbc</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br><br>
+    <p><b>Networks 1: tbc</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
     	<b>Networks 2: Elsa Arcatue</b><br>Centrality and betweenness<br><br>
     	<b>Networks 3: Gareth Simons</b><br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br><br>
     </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Raster data and satellite imagery 1: tbc</b><br>What is Raster data?<br><br>
-    	<b>Raster data and satellite imagery 2: tbc</b><br>Raster data classification<br><br>
-    	<b>Raster data and satellite imagery 3: tbc</b><br>Working with satellite imagery<br><br>
+    <p><b>Classifying satellite imagery 1: tbc</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
+    	<b>Classifying satellite imagery 2: tbc</b><br>Normalised differencing<br>Thresholding and sub-setting images<br><br>
+    	<b>Classifying satellite imagery 3: tbc</b><br>Unsupervised classification<br>Supervised classification<br>Model evaluation<br><br>
     </p>
   </div>
 </div>
@@ -243,7 +243,7 @@ td[colspan="3"] {
 		<td>10:00</td>
 		<td bgcolor="#575795">Statistics 1</td>
 		<td bgcolor="#b3cce9">Networks 1</td>
-		<td rowspan="6" bgcolor="#6d9e8e">Group project</td>
+		<td rowspan="6" bgcolor="#6d9e8e">Hackathon</td>
 	</tr>
 	<tr>
 		<td>10:30</td>
@@ -257,8 +257,8 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>11:30</td>
-		<td rowspan="3" bgcolor="#53a9aa">Practical examples</td>
-		<td rowspan="3" bgcolor="#53a9aa">Practical examples</td>
+		<td rowspan="3" bgcolor="#53a9aa">Get coding!</td>
+		<td rowspan="3" bgcolor="#53a9aa">Get coding!</td>
 	</tr>
 	<tr>
 		<td>12:00</td>
@@ -279,7 +279,7 @@ td[colspan="3"] {
 		<td>14:00</td>
 		<td bgcolor="#463c71">Spatial data and statistics 1</td>
 		<td bgcolor="#92afd8">Classifying satellite imagery 1</td>
-		<td rowspan="3" bgcolor="#6d9e8e">Group project</td>
+		<td rowspan="3" bgcolor="#6d9e8e">Hackathon</td>
 	</tr>
 	<tr>
 		<td>14:30</td>
@@ -299,9 +299,9 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>16:00</td>
-		<td rowspan="4" bgcolor="#6d9e8e">Group project</td>
-		<td rowspan="4" bgcolor="#6d9e8e">Group project</td>
-		<td rowspan="4" bgcolor="#6d9e8e">Group project</td>
+		<td rowspan="4" bgcolor="#6d9e8e">Data exploration and brainstorming</td>
+		<td rowspan="4" bgcolor="#6d9e8e">Data exploration and brainstorming</td>
+		<td rowspan="4" bgcolor="#6d9e8e">Hackathon</td>
 	</tr>
 	<tr>
 		<td>16:30</td>
@@ -314,7 +314,7 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>18:00</td>
-		<td rowspan="4" colspan="3" bgcolor="#e9cbc7">Evening events</td>
+		<td rowspan="4" colspan="3" bgcolor="#e9cbc7">Evening events, dinner, drinks, etc</td>
 	</tr>
 		<tr>
 		<td>18:30</td>

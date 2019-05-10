@@ -39,9 +39,9 @@ Day 1 will start by introducing important statistical measures, modelling techni
 
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Statistics 1: tbc</b><br>Descriptive statistic<br>Regression<br><br>
-    	<b>Statistics 2: tbc</b><br>Linear regression models<br>Other statistical models<br><br>
-    	<b>Cluster analysis: tbc</b><br></p>
+    <p><b>Statistics 1: tbc</b><br>Summarise and compare data<br>Simple linear regression<br><br>
+    	<b>Statistics 2: tbc</b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
+    	<b>Cluster analysis: tbc</b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
     <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats and databases<br><br>
@@ -93,7 +93,7 @@ Day 2 will start by covering the skills required to perform network analysis on 
     </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Classifying satellite imagery 1: tbc</b><br>Sources of raster data<br>Stack, mosaic and clip raster data<br><br>
+    <p><b>Classifying satellite imagery 1: tbc</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
     	<b>Classifying satellite imagery 2: tbc</b><br>Normalised differencing<br>Thresholding and sub-setting images<br><br>
     	<b>Classifying satellite imagery 3: tbc</b><br>Unsupervised classification<br>Supervised classification<br>Model evaluation<br><br>
     </p>
