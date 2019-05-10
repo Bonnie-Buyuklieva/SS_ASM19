@@ -8,10 +8,20 @@ layout: default
 
 > Get good people together, treat them well and good projects will come.  
 
-The purpose of this workshop is threefold: firstly, to **warm participants up to key quantitative methods** and **introduce them to core spatial modelling methods**; secondly, **apply these methods** in the context of <a href="https://www.gov.uk/government/topical-events/the-uks-industrial-strategy">National Industrial Strategy</a> and creating new governmental geography products; finally, **foster collaborations opportunities** between PhD students from different institutions through the hackathon and subsequent conference attendance award. 
+The purpose of this workshop is threefold: firstly, to **warm participants up to key quantitative methods** and **introduce them to core spatial modelling methods**; secondly, **apply these methods** in the context of <a href="https://www.gov.uk/government/topical-events/the-uks-industrial-strategy">National Industrial Strategy</a> and creating new governmental geography products; finally, **foster collaborations opportunities** between PhD students from different institutions through the hackathon and subsequent conference attendance award.
 
-[Who are we looking for?](#who-are-we-looking-for) // [Syllabus and Tutors](#syllabus-and-tutors) // [Timetable](#timetable)
+### But whats in it for me?!?
 
+Well, since you ask successful applicants will receive...
+
+* Travel and accommodation to London
+* Lunch and dinner and social events
+* Learn lots of shiney new skills
+* Meet shiney new people
+
+Not only that but there are **PRIZES** up for grabs for the hackathon winners including **Tickets to [GISRUK 2019](http://www.newcastle.gisruk.org/)** and **Text books!!!**
+
+## [Apply here!!!](https://docs.google.com/forms/d/e/1FAIpQLScTQvb3eRYQbXyjpaqbEkKH8VQ11VZWG_4MNcSBMn3wCOeAdw/viewform)
 
 *** 
 
