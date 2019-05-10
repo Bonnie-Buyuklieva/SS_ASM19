@@ -149,4 +149,57 @@ layout: default
 </body>
 </html>
 
+
+## Syllabus and Tutors
+
+
+### Day 1
+
+Statistics 1: tbc
+* Descriptive statistics
+* Regression
+
+Statistics 2: tbs
+* Linear regression models
+* Other statistical modesl
+
+Statistics 3: tbc
+* Cluster analysis
+
+Spatial data and statistics 1: tbc
+* Spatial data formats and databases
+
+Spatial data and statistics 2: tbc
+* Spatial statistics
+
+Spatial data and statistics 3: tbc
+* Data validation
+
+### Day 2
+
+Networks 1: tbc
+* Directed vs undirected graphs
+* Adjacency matrices and node degree
+* Degree distribution
+* Connectivity
+
+Networks 2: Elsa Arcatue
+* Centrality and betweeness
+
+Networks 3: Gareth Simons
+* Constructing graphs from road network data
+* Introduction to the OSMnx Python library
+* Introduction to the cityseer library
+
+
+Raster data and satelite imagery 1: tbc
+* What is Raster data?
+
+Raster data and satelite imagery 2: tbc
+* Raster data classification
+
+Raster data and satelite imagery 3: tbc
+* Working with satelite imagery
+
+
 [back](./)
