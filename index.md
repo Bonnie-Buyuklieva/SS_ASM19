@@ -12,12 +12,13 @@ The purpose of this workshop is threefold: firstly, to **warm participants up to
 
 [Applicant Selection Criteria](./p_criteria.html)
 
-[Timeline](./p_timeline.html)
-
 [Syllabus // Tutors // Timetable](./p_timetable.html)
+
+<!---[Timeline](./p_timeline.html)
 
 [About](./p_about.html)
 
 [FAQ](./p_FAQ.html)
 
+--->
 
