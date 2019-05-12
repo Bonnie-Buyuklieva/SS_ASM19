@@ -8,20 +8,23 @@ layout: default
 
 > Get good people together, treat them well and good projects will come.  
 
-The purpose of this workshop is threefold: firstly, to **warm participants up to key quantitative methods** and **introduce them to core spatial modelling methods**; secondly, **apply these methods** in the context of <a href="https://www.gov.uk/government/topical-events/the-uks-industrial-strategy">National Industrial Strategy</a> and creating new governmental geography products; finally, **foster collaborations opportunities** between PhD students from different institutions through the hackathon and subsequent conference attendance award.
+The purpose of this workshop is threefold: firstly, to **warm participants up to key quantitative methods** and **introduce them to core spatial modelling methods**; secondly, **apply these methods** in the context of <a href="https://www.gov.uk/government/topical-events/the-uks-industrial-strategy">National Industrial Strategy</a> - and in doing so, think about new governmental geography products and what future cities could look like; finally, **foster collaborations opportunities** between PhD students from different institutions through the hackathon and subsequent conference attendance award.
 
-### But whats in it for me?!?
+### **Why should I participate?**
 
-Well, since you ask successful applicants will receive...
+Successful applicants will receive…
 
 * Travel and accommodation to London
-* Lunch and dinner and social events
-* Learn lots of shiney new skills
-* Meet shiney new people
+* Lunch, dinner and social events
+* Learn new skills and a refresher on old ones
+* Meet excellent new people
 
-Not only that but there are **PRIZES** up for grabs for the hackathon winners including **Tickets to [GISRUK 2019](http://www.newcastle.gisruk.org/)** and **Text books!!!**
+Hackathon winners will receive…
+* _First Prize_ : Tickets to [GISRUK 2019](http://www.newcastle.gisruk.org/)
+* _Second Prize_ : Signed copies of *[Inventing Future Cities](https://mitpress.mit.edu/books/inventing-future-cities)*
 
-## [Apply here!!!](https://docs.google.com/forms/d/e/1FAIpQLScTQvb3eRYQbXyjpaqbEkKH8VQ11VZWG_4MNcSBMn3wCOeAdw/viewform)
+
+# **[Apply here!](https://docs.google.com/forms/d/e/1FAIpQLScTQvb3eRYQbXyjpaqbEkKH8VQ11VZWG_4MNcSBMn3wCOeAdw/viewform)**
 
 *** 
 
@@ -211,7 +214,7 @@ body {
   </div>
   <div class="container right">
     <div class="content">
-      <h2>16th August</h2>
+      <h2>6th August</h2>
       <p>Accommodation and travel booked</p>
     </div>
   </div>
@@ -228,24 +231,27 @@ body {
 <br>
 
 ## Who are we looking for?
-We are looking for enthusiastic PhD students who would like to learn the basics of spatial data analysis, share their own methods, and work collaboratively to apply these techniques to interesting datasets.
+We are looking for up to 20 enthusiastic PhD students who would like to learn the basics of spatial data analysis, share their own methods, and work collaboratively to apply these techniques to interesting datasets.
 
-We also want to bring together people working in a diverse range of research domains but that might benefit from or involve some quantitative spatial analysis. We will be covering many topics in a short amount of time and some experience using tools such as Python, R and QGIS for geography analysis will be beneficial but not necessary 
+We also want to bring together teams of up to 5 working from a diverse range of research domains. Ideally we want candidates who come might benefit from exposure to quantitative spatial analysis. We will be covering many topics in a short amount of time and some experience using tools such as Python, R and QGIS for geography analysis will be beneficial but not necessary. 
 
-Here are some bullet points listing some of the qualities we are looking for. If you are in any doubt please get in touch!
+Here are some bullet points listing some of the qualities we are looking for:
 
 Essential
 
-* Willing and able to attend the full three days and play nice and be a good teammate
+* Willing and able to attend the full three days
+* Play nice and be a good teammate
 * Some experience in data analysis and a desire to learn more quite quickly
 * Interest in using data analysis to address the [Grand Challenges](https://www.gov.uk/government/publications/industrial-strategy-the-grand-challenges/industrial-strategy-the-grand-challenges) set out in the governments' Industrial Strategy
 
 Nice to have
 
 * Experience with Python/Jupyter Notebook or R/RStudio
-* Interesting research project that will benefit from attending the summer school
+* Have the summer school link to your current research project
 * Familiarity with geographic data and computational methods for working with such data
 
+
+Still have question? Get in touch!
 *** 
 
 ***
@@ -253,7 +259,7 @@ Nice to have
 
 ## Syllabus and Tutors
 
-The objective of the syllabus is to warm participants up to key quantitative methods and introduce them to core spatial modelling methods. There will be a strong focus on demonstrating these methods with code snippets and coding demonstrations which participants can experiment with and build upon. Over half the lesson time on the first two days is assigned to hands on coding and analysis with the support of the course tutors.
+The objective of the syllabus is to warm participants up to key quantitative methods and then introduce them to core spatial modelling methods. There will be a strong focus on demonstrating these methods with code snippets. Participants will see live coding examples they can experiment with and build upon for the hackathon. Over half the lesson time on the first two days is assigned to hands on coding and teamwork with the support of the course tutors.
 
 ***
 
@@ -289,13 +295,13 @@ Day 1 will start by introducing important statistical measures, modelling techni
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
     <p><b>Statistics 1: tbc</b><br>Summarise and compare data<br>Simple linear regression<br><br>
-    	<b>Statistics 2: tbc</b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
-    	<b>Cluster analysis: tbc</b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
+    	<b>Statistics 2: Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
+    	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
     <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats and databases<br><br>
-    	<b>Spatial data and statistics 2: tbc</b><br>Spatial statistics<br><br>
-    	<b>Spatial data and statistics 3: tbc</b><br>Data validation</p>
+    	<b>Spatial data and statistics 2: tbc</b><br> Spatial Autocorrelation <br><br>
+    	<b>Spatial data and statistics 3: tbc</b><br> Spatial Interaction </p>
   </div>
 </div>
 </body>
