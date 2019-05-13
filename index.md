@@ -470,8 +470,8 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>11:30</td>
-		<td rowspan="3" bgcolor="#53a9aa">Get coding!</td>
-		<td rowspan="3" bgcolor="#53a9aa">Get coding!</td>
+		<td rowspan="3" bgcolor="#53a9aa">Try methods</td>
+		<td rowspan="3" bgcolor="#53a9aa">Try methods</td>
 	</tr>
 	<tr>
 		<td>12:00</td>
