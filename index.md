@@ -38,6 +38,7 @@ Hackathon winners will receive…
 ***
 <br>
 
+
 ## Application timeline
 
 <head>
@@ -258,6 +259,10 @@ Nice to have
 Still have question? Get in touch!
 *** 
 
+<br>
+
+***
+
 ***
 <br>
 
@@ -310,6 +315,8 @@ Day 1 will start by introducing important statistical measures, modelling techni
 </div>
 </body>
 </html>
+
+<br>
 
 ### Day 2
 
@@ -366,6 +373,8 @@ Day 2 will start by covering the skills required to perform network analysis on 
 ### Day 3
 
 Hackathon!
+
+<br>
 
 ***
 
