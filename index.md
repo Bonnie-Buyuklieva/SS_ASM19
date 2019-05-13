@@ -146,6 +146,10 @@ body {
   color: #727272;
 }
 
+.deadline {
+	color: #E5005B ;
+}
+
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
   /* Place the timelime to the left */
@@ -201,8 +205,8 @@ body {
   </div>
   <div class="container left">
     <div class="content">
-      <h2>19th July</h2>
-      <p>Application deadline</p>
+      <h2 class="deadline">19th July</h2>
+      <p class="deadline">Application deadline</p>
     </div>
   </div>
   <div class="container right">
