@@ -475,7 +475,7 @@ td[colspan="3"] {
 		<td>10:00</td>
 		<td bgcolor="#575795">Statistics 1</td>
 		<td bgcolor="#b3cce9">Networks 1</td>
-		<td rowspan="6" bgcolor="#6d9e8e">Hackathon</td>
+		<td rowspan="6" bgcolor="#638db7">Hackathon</td>
 	</tr>
 	<tr>
 		<td>10:30</td>
@@ -489,8 +489,8 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>11:30</td>
-		<td rowspan="3" bgcolor="#53a9aa">Try methods</td>
-		<td rowspan="3" bgcolor="#53a9aa">Try methods</td>
+		<td rowspan="3" bgcolor="#7ab3cc">Try methods</td>
+		<td rowspan="3" bgcolor="#7ab3cc">Try methods</td>
 	</tr>
 	<tr>
 		<td>12:00</td>
@@ -509,18 +509,18 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>14:00</td>
-		<td bgcolor="#463c71">Spatial data and statistics 1</td>
+		<td bgcolor="#364f8e">Spatial data and statistics 1</td>
 		<td bgcolor="#92afd8">Classifying satellite imagery 1</td>
-		<td rowspan="3" bgcolor="#6d9e8e">Hackathon</td>
+		<td rowspan="3" bgcolor="#638db7">Hackathon</td>
 	</tr>
 	<tr>
 		<td>14:30</td>
-		<td bgcolor="#463c71">Spatial data and statistics 2</td>
+		<td bgcolor="#364f8e">Spatial data and statistics 2</td>
 		<td bgcolor="#92afd8">Classifying satellite imagery 2</td>
 	</tr>
 	<tr>
 		<td>15:00</td>
-		<td bgcolor="#463c71">Spatial data and statistics 3</td>
+		<td bgcolor="#364f8e">Spatial data and statistics 3</td>
 		<td bgcolor="#92afd8">Classifying satellite imagery 3</td>
 	</tr>
 	<tr>
@@ -531,9 +531,9 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>16:00</td>
-		<td rowspan="4" bgcolor="#6d9e8e">Hackathon: Getting the data & brainstorming</td>
-		<td rowspan="4" bgcolor="#6d9e8e">Hackathon: Data exploration & project plan</td>
-		<td rowspan="4" bgcolor="#6d9e8e">Hackathon</td>
+		<td rowspan="4" bgcolor="#638db7">Hackathon: Getting the data & brainstorming</td>
+		<td rowspan="4" bgcolor="#638db7">Hackathon: Data exploration & project plan</td>
+		<td rowspan="4" bgcolor="#638db7">Hackathon</td>
 	</tr>
 	<tr>
 		<td>16:30</td>
@@ -546,7 +546,7 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>18:00</td>
-		<td rowspan="4" colspan="3" bgcolor="#e9cbc7">Evening events, dinner, drinks, etc</td>
+		<td rowspan="4" colspan="3" bgcolor="#e3e6f2" style="color:#393939">Evening events, dinner, drinks, etc</td>
 	</tr>
 		<tr>
 		<td>18:30</td>
