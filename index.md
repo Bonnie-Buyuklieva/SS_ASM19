@@ -390,10 +390,18 @@ Prizes for winning hackathon teams are:
 * Second Prize : Signed copies of *[Inventing Future Cities](https://mitpress.mit.edu/books/inventing-future-cities)*
 
 Hackathon teams will be judged on the following criteria:
-* Application of spatial modelling techniques<br>_Did the team apply apply a variety of methods suitably, going beyond the examples presented by tutors?_
-* Addressing a research question<br>_How well did the team address their research question?_
-* Presentation<br>_Did the team produce high quality figures?_
-* Collaboration<br>_Did the team work well together, allowing all team members to contribute to the work?_<br>
+<br>
+<br>
+<b>Application of spatial modelling techniques</b><br>Did the team apply apply a variety of methods suitably, going beyond the examples presented by tutors?
+<br>
+<br>
+<b>Addressing a research question</b><br>How well did the team address their research question?
+<br>
+<br>
+<b>Presentation</b><br>Did the team produce high quality figures?
+<br>
+<br>
+<b>Collaboration</b><br>Did the team work well together, allowing all team members to contribute to the work?
 
 <br>
 
