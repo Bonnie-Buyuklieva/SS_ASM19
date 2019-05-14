@@ -250,7 +250,7 @@ Essential
 
 * Willing and able to attend the full three days
 * Play nice and be a good teammate
-* Some experience in data analysis and a desire to learn more quite quickly
+* Some experience in data analysis and a desire to learn more quickly
 * Interest in using data analysis to address the [Grand Challenges](https://www.gov.uk/government/publications/industrial-strategy-the-grand-challenges/industrial-strategy-the-grand-challenges) set out in the governments' Industrial Strategy
 
 Nice to have
@@ -376,7 +376,22 @@ Day 2 will start by covering the skills required to perform network analysis on 
 
 ### Day 3
 
-Hackathon!
+Hackathon!!!
+
+The last day is dedicated to working collaboratively to explore a research question by applying the methods covered in the summer school to spatial datasets. This will give participants the opportunity to practice the skills they have learnt with the support of their peers and summer school tutors. 
+
+Time has been set aside on the first two days of the summer school for exploring the datasets and formulating a research question. Road network data, satellite imagery data and point locations data will be provided for teams to work with but teams are also welcome to work with other spatial datasets.
+
+Prizes for winning hackathon teams are:
+
+* First Prize : Tickets to [GISRUK 2019](http://www.newcastle.gisruk.org/)
+* Second Prize : Signed copies of *[Inventing Future Cities](https://mitpress.mit.edu/books/inventing-future-cities)*
+
+Hackathon teams will be judged on the following criteria:
+* Application of spatial modelling techniques<br>_Did the team apply apply a variety of methods suitably, going beyond the examples presented by tutors?_
+* Addressing a research question<br>_How well did the team address their research question?_
+* Presentation<br>_Did the team produce high quality figures?_
+* Collaboration<br>_Did the team work well together, allowing all team members to contribute to the work?_<br>
 
 <br>
 
