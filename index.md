@@ -18,18 +18,20 @@ The purpose of this workshop is threefold: firstly, to **warm participants up to
 ***
 <br>
 
-### **Why should I participate?**
+### **Why should I apply?**
 
 Successful applicants will receive…
 
 * Travel and accommodation to London
 * Lunch, dinner and social events
-* Learn new skills and a refresher on old ones
-* Meet excellent new people
+* Tutorials on new skills and refreshers on old ones
+* Opportunities to meet excellent new people
 
 Hackathon winners will receive…
 * _First Prize_ : Tickets to [GISRUK 2019](http://www.newcastle.gisruk.org/)
 * _Second Prize_ : Signed copies of *[Inventing Future Cities](https://mitpress.mit.edu/books/inventing-future-cities)*
+
+So have a look at the [Who are we looking for?](#who-are-we-looking-for) section and complete this brief [application form]("https://forms.gle/Ja6qRX63hWiYSJTE6") by the **19th of July 2019**.
 
 <br>
 
