@@ -10,6 +10,8 @@ layout: default
 
 The purpose of this workshop is threefold: firstly, to **warm participants up to key quantitative methods** and **introduce them to core spatial modelling methods**; secondly, **apply these methods** in the context of <a href="https://www.gov.uk/government/topical-events/the-uks-industrial-strategy">National Industrial Strategy</a> - and in doing so, think about new governmental geography products and what future cities could look like; finally, **foster collaborations opportunities** between PhD students from different institutions through the hackathon and subsequent conference attendance award.
 
+The techniques covered in this summer school are relevant to many areas of geographical analysis but the focus will be on advanced spatial modelling applied to land use and transportation.
+
 
 ***
 
