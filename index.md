@@ -543,13 +543,14 @@ td[colspan="3"] {
 		<td>16:00</td>
 		<td rowspan="4" bgcolor="#638db7">Hackathon: Getting the data & brainstorming</td>
 		<td rowspan="4" bgcolor="#638db7">Hackathon: Data exploration & project plan</td>
-		<td rowspan="4" bgcolor="#638db7">Hackathon</td>
+		<td rowspan="2" bgcolor="#638db7">Hackathon</td>
 	</tr>
 	<tr>
 		<td>16:30</td>
 	</tr>
 	<tr>
 		<td>17:00</td>
+		<td rowspan="2" bgcolor="#638db7">Presentations and Prizes</td>
 	</tr>
 	<tr>
 		<td>17:30</td>
