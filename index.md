@@ -309,12 +309,12 @@ Day 1 will start by introducing important statistical measures, modelling techni
 
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Statistics 1: tbc</b><br>Summarise and compare data<br>Simple linear regression<br><br>
+    <p><b>Statistics 1: Bonnie Buyuklieva</b><br>Summarise and compare data<br>Simple linear regression<br><br>
     	<b>Statistics 2: Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
     	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats and databases<br><br>
+    <p><b>Spatial data and statistics 1: Bonnie Buyuklieva</b><br>Spatial data formats and databases<br><br>
     	<b>Spatial data and statistics 2: tbc</b><br> Spatial Autocorrelation <br><br>
     	<b>Spatial data and statistics 3: tbc</b><br> Spatial Interaction </p>
   </div>
@@ -359,13 +359,13 @@ Day 2 will start by covering the skills required to perform network analysis on 
 
 <div class="row">
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Networks 1: tbc</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
+    <p><b>Networks 1: Obi Sargoni</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
     	<b>Networks 2: Elsa Arcatue</b><br>Centrality and betweenness<br><br>
     	<b>Networks 3: Gareth Simons</b><br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br><br>
     </p>
   </div>
   <div class="column" style="background-color:#ffffff;">
-    <p><b>Classifying satellite imagery 1: tbc</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
+    <p><b>Classifying satellite imagery 1: Matt Ng</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
     	<b>Classifying satellite imagery 2: tbc</b><br>Normalised differencing<br>Thresholding and sub-setting images<br><br>
     	<b>Classifying satellite imagery 3: tbc</b><br>Unsupervised classification<br>Supervised classification<br>Model evaluation<br><br>
     </p>
