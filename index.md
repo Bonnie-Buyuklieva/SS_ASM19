@@ -26,6 +26,7 @@ Successful applicants will receive…
 * Lunch, dinner and social events
 * Tutorials on new skills and refreshers on old ones
 * Opportunities to meet excellent new people
+* Support publishing hackathon outputs
 
 Hackathon winners will receive…
 * _First Prize_ : Tickets to [GISRUK 2019](http://www.newcastle.gisruk.org/)
@@ -82,6 +83,13 @@ body {
   width: 50%;
 }
 
+.deadlinecontainer {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
 /* The circles on the timeline */
 .container::after {
   content: '';
@@ -90,6 +98,20 @@ body {
   height: 25px;
   right: -17px;
   background-color: white;
+  border: 4px solid #575795;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* The circles on the timeline */
+.deadlinecontainer::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: #e3e6f2;
   border: 4px solid #575795;
   top: 15px;
   border-radius: 50%;
@@ -120,6 +142,19 @@ body {
   border-color: transparent transparent transparent gray;
 }
 
+.deadlineleft::before {
+	content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent #e3e6f2;
+}
+
 /* Add arrows to the right container (pointing left) */
 .right::before {
   content: " ";
@@ -143,6 +178,15 @@ body {
 .content {
   padding: 20px 30px;
   background-color: white;
+  position: relative;
+  border-radius: 6px;
+  color: #727272;
+}
+
+/* The actual content */
+.deadlinecontent {
+  padding: 20px 30px;
+  background-color: #e3e6f2;
   position: relative;
   border-radius: 6px;
   color: #727272;
@@ -202,11 +246,11 @@ body {
   <div class="container right">
     <div class="content">
       <h2>31st May</h2>
-      <p>Applciations open for all students</p>
+      <p>Applications open for all students</p>
     </div>
   </div>
-  <div class="container left">
-    <div class="content">
+  <div class="deadlinecontainer deadlineleft">
+    <div class="deadlinecontent">
       <h2 class="deadline">19th July</h2>
       <p class="deadline">Application deadline</p>
     </div>
@@ -214,7 +258,7 @@ body {
   <div class="container right">
     <div class="content">
       <h2>26th July</h2>
-      <p>Successful participants invited to attened the Summer School</p>
+      <p>Successful participants invited to attend the Summer School</p>
     </div>
   </div>
   <div class="container left">
@@ -263,7 +307,6 @@ Nice to have
 
 
 Still have question? Get in touch!
-*** 
 
 <br>
 
