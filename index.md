@@ -531,8 +531,8 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>16:00</td>
-		<td rowspan="4" bgcolor="#6d9e8e">Data exploration and brainstorming</td>
-		<td rowspan="4" bgcolor="#6d9e8e">Data exploration and brainstorming</td>
+		<td rowspan="4" bgcolor="#6d9e8e">Hackathon: Getting the data & brainstorming</td>
+		<td rowspan="4" bgcolor="#6d9e8e">Hackathon: Data exploration & project plan</td>
 		<td rowspan="4" bgcolor="#6d9e8e">Hackathon</td>
 	</tr>
 	<tr>
