@@ -260,7 +260,7 @@ body {
   <div class="container right">
     <div class="content">
       <h2>26th July</h2>
-      <p>Successful participants invited to attend the Summer School</p>
+      <p>Successful participants invited to attend the summer school</p>
     </div>
   </div>
   <div class="container left">
