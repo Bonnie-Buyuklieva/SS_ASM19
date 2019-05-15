@@ -347,13 +347,6 @@ Day 1 will start by introducing important statistical measures, modelling techni
   clear: both;
 }
 
-.container {
-    display: grid;
-    grid-gap: 5px;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    grid-template-rows: repeat(1, 100px);
-}
-
  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
@@ -364,23 +357,8 @@ Day 1 will start by introducing important statistical measures, modelling techni
 </style>
 </head>
 <body>
-/*
 <div class="row">
   <div class="column">
-    <p><b>Statistics 1: Bonnie Buyuklieva</b><br>Summarise and compare data<br>Simple linear regression<br><br>
-    	<b>Statistics 2: Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
-    	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
-  </div>
-  <div class="column">
-    <p><b>Spatial data and statistics 1: Bonnie Buyuklieva</b><br>Spatial data formats and databases<br><br>
-    	<b>Spatial data and statistics 2: tbc</b><br> Spatial Autocorrelation <br><br>
-    	<b>Spatial data and statistics 3: tbc</b><br> Spatial Interaction </p>
-  </div>
-</div>
-*/
-	
-<div class="container">
-  <div>
     <p><b>Statistics 1: Bonnie Buyuklieva</b><br>Summarise and compare data<br>Simple linear regression<br><br>
     	<b>Statistics 2: Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
     	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
