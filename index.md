@@ -368,6 +368,7 @@ Day 1 will start by introducing important statistical measures, modelling techni
 </html>
 
 <br>
+<br>
 
 ### Day 2
 
@@ -419,7 +420,7 @@ Day 2 will start by covering the skills required to perform network analysis on 
 </body>
 </html>
 
-<br> <!--- An extra line break needed here --->
+<br>
 
 ### Day 3
 
