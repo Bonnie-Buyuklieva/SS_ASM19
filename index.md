@@ -417,6 +417,13 @@ Day 2 will start by covering the skills required to perform network analysis on 
   display: table;
   clear: both;
 }
+
+ /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+} 
 </style>
 </head>
 
