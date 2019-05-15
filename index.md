@@ -428,6 +428,7 @@ Day 2 will start by covering the skills required to perform network analysis on 
 </html>
 
 <br>
+<br>
 
 ### Day 3
 
