@@ -337,7 +337,7 @@ Day 1 will start by introducing important statistical measures, modelling techni
 
 /* Create two equal columns that floats next to each other */
 .column {
-  float: left;
+  /*float: left;*/
   width: 50%;
   padding: 10px;
   display: block;
@@ -346,7 +346,6 @@ Day 1 will start by introducing important statistical measures, modelling techni
 /* Clear floats after the columns */
 .row:after {
   content: "";
-  display: table;
   clear: both;
 }
 </style>
