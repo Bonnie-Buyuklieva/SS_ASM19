@@ -337,14 +337,15 @@ Day 1 will start by introducing important statistical measures, modelling techni
 
 /* Create two equal columns that floats next to each other */
 .column {
-  /*float: left;*/
+ float: left;
   width: 50%;
   padding: 10px;
-  flex: 50%;
 }
 
-.row {
-  display: flex;
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  clear: both;
 }
 
  /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
@@ -354,12 +355,6 @@ Day 1 will start by introducing important statistical measures, modelling techni
   }
 } 
 
-/* Clear floats after the columns 
-.row:after {
-  content: "";
-  clear: both;
-}
-*/
 </style>
 </head>
 <body>
