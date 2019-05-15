@@ -340,6 +340,7 @@ Day 1 will start by introducing important statistical measures, modelling techni
   float: left;
   width: 50%;
   padding: 10px;
+  display: block;
 }
 
 /* Clear floats after the columns */
