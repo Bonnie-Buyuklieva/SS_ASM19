@@ -340,14 +340,19 @@ Day 1 will start by introducing important statistical measures, modelling techni
   /*float: left;*/
   width: 50%;
   padding: 10px;
-  display: block;
+  flex: 50%;
 }
 
-/* Clear floats after the columns */
+.row {
+  display: flex;
+}
+
+/* Clear floats after the columns 
 .row:after {
   content: "";
   clear: both;
 }
+*/
 </style>
 </head>
 <body>
