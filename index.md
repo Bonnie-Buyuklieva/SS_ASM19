@@ -458,7 +458,6 @@ Hackathon teams will be judged on the following criteria:
 
 <br>
 
-***
 
 ***
 <br>
