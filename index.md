@@ -337,7 +337,6 @@ Day 1 will start by introducing important statistical measures, modelling techni
 
 /* Create two equal columns that floats next to each other */
 .column {
- float: left;
   width: 50%;
   padding: 10px;
 }
@@ -360,17 +359,18 @@ Day 1 will start by introducing important statistical measures, modelling techni
 <body>
 
 <div class="row">
-  <div class="column" style="background-color:#ffffff;">
+  <div class="column">
     <p><b>Statistics 1: Bonnie Buyuklieva</b><br>Summarise and compare data<br>Simple linear regression<br><br>
     	<b>Statistics 2: Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
     	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
-  <div class="column" style="background-color:#ffffff;">
+  <div class="column">
     <p><b>Spatial data and statistics 1: Bonnie Buyuklieva</b><br>Spatial data formats and databases<br><br>
     	<b>Spatial data and statistics 2: tbc</b><br> Spatial Autocorrelation <br><br>
     	<b>Spatial data and statistics 3: tbc</b><br> Spatial Interaction </p>
   </div>
 </div>
+
 </body>
 </html>
 
