@@ -436,7 +436,7 @@ Day 2 will start by covering the skills required to perform network analysis on 
     	<b>Networks 3: Gareth Simons</b><br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br><br>
     </p>
   </div>
-  <div class="column>
+  <div class="column">
     <p><b>Classifying satellite imagery 1: Matt Ng</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
     	<b>Classifying satellite imagery 2: tbc</b><br>Normalised differencing<br>Thresholding and sub-setting images<br><br>
     	<b>Classifying satellite imagery 3: tbc</b><br>Unsupervised classification<br>Supervised classification<br>Model evaluation<br><br>
