@@ -46,6 +46,7 @@ So have a look at the [Who are we looking for?](#who-are-we-looking-for) section
 
 ## Application timeline
 
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
@@ -77,6 +78,12 @@ body {
   margin-left: -3px;
 }
 
+
+
+
+
+
+
 /* Container around content */
 .container {
   padding: 10px 40px;
@@ -85,12 +92,6 @@ body {
   width: 50%;
 }
 
-.deadlinecontainer {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  width: 50%;
-}
 
 /* The circles on the timeline */
 .container::after {
@@ -106,6 +107,15 @@ body {
   z-index: 1;
 }
 
+
+/* deadlinecontaine */
+.deadlinecontainer {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
 /* The circles on the timeline */
 .deadlinecontainer::after {
   content: '';
@@ -113,12 +123,15 @@ body {
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: #e3e6f2;
-  border: 4px solid #575795;
+  background-color: #81a1f9; /*if time, match this blue*/
+  border: 4px solid black;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
 }
+
+
+
 
 /* Place the container to the left */
 .left {
@@ -144,19 +157,6 @@ body {
   border-color: transparent transparent transparent gray;
 }
 
-.deadlineleft::before {
-	content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  right: 30px;
-  border: medium solid white;
-  border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #e3e6f2;
-}
-
 /* Add arrows to the right container (pointing left) */
 .right::before {
   content: " ";
@@ -176,6 +176,24 @@ body {
   left: -16px;
 }
 
+
+/* Arrows to the right container (pointing left) */
+.deadlineleft::before {
+ content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid  #E5005B;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent #c1c3c9;
+}
+
+
+
+
 /* The actual content */
 .content {
   padding: 20px 30px;
@@ -188,14 +206,14 @@ body {
 /* The actual content */
 .deadlinecontent {
   padding: 20px 30px;
-  background-color: #e3e6f2;
+  background-color:  #c1c3c9;
   position: relative;
   border-radius: 6px;
   color: #727272;
 }
 
 .deadline {
-	color: #E5005B ;
+	color: black ;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
@@ -219,7 +237,8 @@ body {
   border-width: 10px 10px 10px 0;
   border-color: transparent white transparent transparent;
   }
-
+  
+ 
   /* Make sure all circles are at the same spot */
   .left::after, .right::after {
   left: 15px;
@@ -229,6 +248,29 @@ body {
   .right {
   left: 0%;
   }
+ 
+ 
+ 
+     /* deadline containers */
+  .deadlinecontainer {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+  }
+  
+  .deadlinecontainer::before {
+  left: 60px;
+  border: medium solid #e3e6f2;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent #e3e6f2 transparent transparent;
+  }
+    
+   /* Make sure all circles are at the same spot */
+  .deadlineleft::after, .right::after {
+  left: 15px;
+  }
+  
+
 }
 
 
@@ -280,7 +322,6 @@ body {
 </body>
 
 <br>
-
 ***
 
 ***
