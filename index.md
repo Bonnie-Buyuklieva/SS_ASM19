@@ -108,7 +108,8 @@ body {
 }
 
 
-/* deadlinecontaine */
+/* deadlinecontainer - this is the gray: #c1c3c9 */
+
 .deadlinecontainer {
   padding: 10px 40px;
   position: relative;
@@ -123,7 +124,7 @@ body {
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: #81a1f9; /*if time, match this blue*/
+  background-color: #c1c3c9; 
   border: 4px solid black;
   top: 15px;
   border-radius: 50%;
@@ -186,7 +187,7 @@ body {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid  #E5005B;
+  border: medium solid  #c1c3c9;
   border-width: 10px 0 10px 10px;
   border-color: transparent transparent transparent #c1c3c9;
 }
@@ -322,6 +323,7 @@ body {
 </body>
 
 <br>
+
 ***
 
 ***
