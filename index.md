@@ -414,9 +414,9 @@ Day 1 will start by introducing important statistical measures, modelling techni
     	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column">
-    <p><b>Spatial data and statistics 1: Bonnie Buyuklieva</b><br>Spatial data formats and databases<br><br>
-    	<b>Spatial data and statistics 2: tbc</b><br> Spatial Autocorrelation <br><br>
-    	<b>Spatial data and statistics 3: tbc</b><br> Spatial Interaction </p>
+    <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats<br>Coordinate Reference Systems and re-projections<br><br>
+    	<b>Spatial data and statistics 2: Bonnie Buyuklieva</b><br>UK Administrative Geographies<br>Spatial autocorrelation and interaction<br><br>
+    	<b>Spatial data and statistics 3: David Murray</b><br>Further spatial statistics and point pattern analysis</p>
   </div>
 </div>
 </body>
