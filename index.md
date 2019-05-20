@@ -415,7 +415,7 @@ Day 1 will start by introducing important statistical measures, modelling techni
   </div>
   <div class="column">
     <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats<br>Coordinate Reference Systems and re-projections<br><br>
-    	<b>Spatial data and statistics 2: Bonnie Buyuklieva</b><br>UK Administrative Geographies<br>Spatial autocorrelation and interaction<br><br>
+    	<b>Spatial data and statistics 2: Bonnie Buyuklieva</b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
     	<b>Spatial data and statistics 3: David Murray</b><br>Further spatial statistics and point pattern analysis</p>
   </div>
 </div>
