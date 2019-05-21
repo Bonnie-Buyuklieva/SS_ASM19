@@ -31,7 +31,7 @@ Successful applicants will receive…
 * Support publishing hackathon outputs
 
 Hackathon winners will receive…
-* _First Prize_ : Tickets to [GISRUK 2019](http://www.newcastle.gisruk.org/)
+* _First Prize_ : Tickets to GISRUK 2020
 * _Second Prize_ : Signed copies of *[Inventing Future Cities](https://mitpress.mit.edu/books/inventing-future-cities)*
 
 So have a look at the [Who are we looking for?](#who-are-we-looking-for) section and complete this brief [application form]("https://forms.gle/Ja6qRX63hWiYSJTE6") by the **19th of July 2019**.
@@ -502,7 +502,7 @@ Time has been set aside on the first two days of the summer school for exploring
 
 Prizes for winning hackathon teams are:
 
-* First Prize : Tickets to [GISRUK 2019](http://www.newcastle.gisruk.org/)
+* First Prize : Tickets to GISRUK 2020
 * Second Prize : Signed copies of *[Inventing Future Cities](https://mitpress.mit.edu/books/inventing-future-cities)*
 
 Hackathon teams will be judged on the following criteria:
