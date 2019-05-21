@@ -414,9 +414,9 @@ Day 1 will start by introducing important statistical measures, modelling techni
     	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column">
-    <p><b>Spatial data and statistics 1: tbc</b><br>Spatial data formats<br>Coordinate Reference Systems and re-projections<br><br>
-    	<b>Spatial data and statistics 2: Bonnie Buyuklieva</b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
-    	<b>Spatial data and statistics 3: David Murray</b><br>Further spatial statistics and point pattern analysis</p>
+    <p><b>Spatial data and statistics 1: Bonnie Buyuklieva</b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
+    	<b>Spatial data and statistics 2: tbc</b><br>Spatial data formats<br>Coordinate Reference Systems and Re-Projections<br><br>
+    	<b>Spatial data and statistics 3: David Murray</b><br>Further Spatial Statistics and Point Pattern Analysis</p>
   </div>
 </div>
 </body>
@@ -481,7 +481,7 @@ Day 2 will start by covering the skills required to perform network analysis on 
   </div>
   <div class="column">
     <p><b>Classifying satellite imagery 1: Matt Ng</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
-    	<b>Classifying satellite imagery 2: tbc</b><br>Normalised differencing<br>Thresholding and sub-setting images<br><br>
+    	<b>Classifying satellite imagery 2: tbc</b><br>Normalised Differencing<br>Thresholding and Sub-setting images<br><br>
     	<b>Classifying satellite imagery 3: tbc</b><br>Unsupervised classification<br>Supervised classification<br>Model evaluation<br><br>
     </p>
   </div>
