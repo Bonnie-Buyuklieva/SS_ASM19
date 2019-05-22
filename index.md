@@ -261,9 +261,9 @@ body {
   
   .deadlinecontainer::before {
   left: 60px;
-  border: medium solid #e3e6f2;
+  border: medium solid #c1c3c9;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #e3e6f2 transparent transparent;
+  border-color: transparent #c1c3c9 transparent transparent;
   }
     
    /* Make sure all circles are at the same spot */
