@@ -108,7 +108,7 @@ body {
 }
 
 
-/* deadlinecontainer - this is the gray: #c1c3c9 */
+/* deadlinecontainer - this is the gray: #e3e6f2 */
 
 .deadlinecontainer {
   padding: 10px 40px;
@@ -124,7 +124,7 @@ body {
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: #c1c3c9; 
+  background-color: #e3e6f2; 
   border: 4px solid #575795;
   top: 15px;
   border-radius: 50%;
@@ -187,9 +187,9 @@ body {
   width: 0;
   z-index: 1;
   right: 30px;
-  border: medium solid  #c1c3c9;
+  border: medium solid  #e3e6f2;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #c1c3c9;
+  border-color: transparent transparent transparent #e3e6f2;
 }
 
 
@@ -207,14 +207,14 @@ body {
 /* The actual content */
 .deadlinecontent {
   padding: 20px 30px;
-  background-color:  #c1c3c9;
+  background-color:  #e3e6f2;
   position: relative;
   border-radius: 6px;
   color: #727272;
 }
 
 .deadline {
-	color: black ;
+	color: #E5005B ;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
@@ -261,9 +261,9 @@ body {
   
   .deadlinecontainer::before {
   left: 60px;
-  border: medium solid #c1c3c9;
+  border: medium solid #e3e6f2;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #c1c3c9 transparent transparent;
+  border-color: transparent #e3e6f2 transparent transparent;
   }
     
    /* Make sure all circles are at the same spot */
