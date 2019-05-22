@@ -318,6 +318,12 @@ body {
       <p>Accommodation and travel booked</p>
     </div>
   </div>
+  <div class="container left">
+    <div class="content">
+      <h2>21st August</h2>
+      <p>Summer school begins!</p>
+    </div>
+  </div>
 </div>
 
 </body>
