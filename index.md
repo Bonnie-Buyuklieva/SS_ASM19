@@ -125,7 +125,7 @@ body {
   height: 25px;
   right: -17px;
   background-color: #c1c3c9; 
-  border: 4px solid black;
+  border: 4px solid #575795;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
