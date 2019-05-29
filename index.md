@@ -34,7 +34,7 @@ Hackathon winners will receive…
 * _First Prize_ : Tickets to GISRUK 2020
 * _Second Prize_ : Signed copies of *[Inventing Future Cities](https://mitpress.mit.edu/books/inventing-future-cities)*
 
-So have a look at the [Who are we looking for?](#who-are-we-looking-for) section and complete this brief [application form]("https://forms.gle/Ja6qRX63hWiYSJTE6") by the **19th of July 2019**.
+So have a look at the [Who are we looking for?](#who-are-we-looking-for) section and complete this brief [application form](https://forms.gle/z2Ji3Z9kFRN2obE7A) by the **19th of July 2019**.
 
 <br>
 
