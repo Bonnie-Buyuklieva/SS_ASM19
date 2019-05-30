@@ -415,7 +415,7 @@ Day 1 will start by introducing important statistical measures, modelling techni
 <body>
 <div class="row">
   <div class="column">
-    <p><b>Statistics 1: Bonnie Buyuklieva</b><br>Summarise and compare data<br>Simple linear regression<br><br>
+    <p><b>Statistics 1: Bonnie Buyuklieva</b><br>Summarise and compare data visually<br>Simple linear regression<br><br>
     	<b>Statistics 2: Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
     	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
