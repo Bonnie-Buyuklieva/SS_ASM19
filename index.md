@@ -481,8 +481,8 @@ Day 2 will start by covering the skills required to perform network analysis on 
 <div class="row">
   <div class="column">
     <p><b>Networks 1: Obi Sargoni</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
+      <b>Networks 2: Elsa Arcaute</b><br>Centrality and betweenness<br><br>
     	<b>Networks 3: Gareth Simons</b><br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br><br>
-    	<b>Networks 2: Elsa Arcaute</b><br>Centrality and betweenness<br><br>
     </p>
   </div>
   <div class="column">
