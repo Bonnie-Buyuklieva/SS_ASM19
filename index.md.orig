@@ -416,13 +416,13 @@ Day 1 will start by introducing important statistical measures, modelling techni
 <div class="row">
   <div class="column">
     <p><b>Statistics 1: Bonnie Buyuklieva</b><br>Summarise and compare data visually<br>Simple linear regression<br><br>
-    	<b>Statistics 2: Dr Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
-    	<b>Cluster analysis: Dr Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
+    	<b>Statistics 2: Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
+    	<b>Cluster analysis: Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column">
     <p><b>Spatial data and statistics 1: Bonnie Buyuklieva</b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
     	<b>Spatial data and statistics 2: tbc</b><br>Spatial data formats<br>Coordinate Reference Systems and Re-Projections<br><br>
-    	<b>Spatial data and statistics 3: Dr David Murrell</b><br>Further Spatial Statistics and Point Pattern Analysis</p>
+    	<b>Spatial data and statistics 3: David Murray</b><br>Further Spatial Statistics and Point Pattern Analysis</p>
   </div>
 </div>
 </body>
@@ -481,14 +481,19 @@ Day 2 will start by covering the skills required to perform network analysis on 
 <div class="row">
   <div class="column">
     <p><b>Networks 1: Obi Sargoni</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
-      <b>Networks 2: Dr Elsa Arcaute</b><br>Centrality and betweenness<br><br>
-    	<b>Networks 3: Dr Neave O'Clery</b><br>Network modelling of urban skill base<br><br>
+<<<<<<< Updated upstream
+      <b>Networks 2: Elsa Arcaute</b><br>Centrality and betweenness<br><br>
+    	<b>Networks 3: Gareth Simons</b><br>Working with road network data<br>OSMnx Python library<br>cityseer Python library<br><br>
+=======
+    	<b>Networks 2: Elsa Arcaute</b><br>Centrality and betweenness<br><br>
+    	<b>Networks 3: Neave O'Clery</b><br>Network modelling of urban skill base<br><br>
+>>>>>>> Stashed changes
     </p>
   </div>
   <div class="column">
     <p><b>Classifying satellite imagery 1: Matt Ng</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
-    	<b>Classifying satellite imagery 2: Dr Andy MacLachlan</b><br>Working with Earth observation data<br>Applied Urban Heat Island analysis<br><br>
-    	<b>Classifying satellite imagery 3: Maxim Chernetskiy</b><br>Raster data classification<br><br>
+    	<b>Classifying satellite imagery 2: Andy MacLachlan</b><br> Working with Earth observation data <br> Applied Urban Heat Island analysis <br><br>
+    	<b>Classifying satellite imagery 3: tbc</b><br>Unsupervised classification<br>Supervised classification<br>Model evaluation<br><br>
     </p>
   </div>
 </div>
