@@ -415,14 +415,14 @@ Day 1 will start by introducing important statistical measures, modelling techni
 <body>
 <div class="row">
   <div class="column">
-    <p><b>Statistics 1: Bonnie Buyuklieva</b><br>Summarise and compare data visually<br>Simple linear regression<br><br>
+    <p><b>Statistics 1: <a href="https://bonnie-buyuklieva.github.io/">Bonnie Buyuklieva</a></b><br>Summarise and compare data visually<br>Simple linear regression<br><br>
     	<b>Statistics 2: Dr Georg Hanh </b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
-    	<b>Cluster analysis: Dr Thomas Oléron Evans </b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
+    	<b>Cluster analysis: <a href = "https://www.ucl.ac.uk/bartlett/casa/dr-thomas-evans">Dr Thomas Oléron Evans</a></b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column">
-    <p><b>Spatial data and statistics 1: Bonnie Buyuklieva</b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
+    <p><b>Spatial data and statistics 1: <a href="https://bonnie-buyuklieva.github.io/">Bonnie Buyuklieva</a></b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
     	<b>Spatial data and statistics 2: tbc</b><br>Spatial data formats<br>Coordinate Reference Systems and Re-Projections<br><br>
-    	<b>Spatial data and statistics 3: Dr David Murrell</b><br>Further Spatial Statistics and Point Pattern Analysis</p>
+    	<b>Spatial data and statistics 3: <a href="https://www.ucl.ac.uk/biosciences/people/david-murrell">Dr David Murrell</a></b><br>Further Spatial Statistics and Point Pattern Analysis</p>
   </div>
 </div>
 </body>
@@ -481,14 +481,14 @@ Day 2 will start by covering the skills required to perform network analysis on 
 <div class="row">
   <div class="column">
     <p><b>Networks 1: Obi Sargoni</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
-      <b>Networks 2: Dr Elsa Arcaute</b><br>Centrality and betweenness<br><br>
-    	<b>Networks 3: Dr Neave O'Clery</b><br>Network modelling of urban skill base<br><br>
+      <b>Networks 2: <a href= "https://www.ucl.ac.uk/bartlett/casa/dr-elsa-arcaute">Dr Elsa Arcaute</a></b><br>Centrality and betweenness<br><br>
+    	<b>Networks 3: <a href="http://neaveoclery.com">Dr Neave O'Clery</a></b><br>Network modelling of urban skill base<br><br>
     </p>
   </div>
   <div class="column">
     <p><b>Classifying satellite imagery 1: Matt Ng</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
     	<b>Classifying satellite imagery 2: Dr Andy MacLachlan</b><br>Working with Earth observation data<br>Applied Urban Heat Island analysis<br><br>
-    	<b>Classifying satellite imagery 3: Maxim Chernetskiy</b><br>Raster data classification<br><br>
+    	<b>Classifying satellite imagery 3: <a href="https://www.geog.ucl.ac.uk/people/research-staff/maxim-chernetskiy">Maxim Chernetskiy</a></b><br>Raster data classification<br><br>
     </p>
   </div>
 </div>
