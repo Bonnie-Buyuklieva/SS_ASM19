@@ -421,7 +421,7 @@ Day 1 will start by introducing important statistical measures, modelling techni
   </div>
   <div class="column">
     <p><b>Spatial data and statistics 1: <a href="https://bonnie-buyuklieva.github.io/">Bonnie Buyuklieva</a></b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
-    	<b>Spatial data and statistics 2: tbc</b><br>Spatial data formats<br>Coordinate Reference Systems and Re-Projections<br><br>
+    	<b>Spatial data and statistics 2: <a href="https://www.robinlovelace.net/">Robin Lovelace</a></b><br>Spatial data formats<br>Coordinate Reference Systems and Re-Projections<br><br>
     	<b>Spatial data and statistics 3: <a href="https://www.ucl.ac.uk/biosciences/people/david-murrell">Dr David Murrell</a></b><br>Further Spatial Statistics and Point Pattern Analysis</p>
   </div>
 </div>
