@@ -480,13 +480,13 @@ Day 2 will start by covering the skills required to perform network analysis on 
 
 <div class="row">
   <div class="column">
-    <p><b>Networks 1: Obi Sargoni</b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
+    <p><b>Networks 1: <a href= "https://www.ucl.ac.uk/bartlett/casa/people/mphilphd-students/obi-thompson-sargoni">Obi Sargoni</a></b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
       <b>Networks 2: <a href= "https://scholar.google.co.uk/citations?user=d3-38S4AAAAJ&hl=en">Dr Elsa Arcaute</a></b><br>Centrality and betweenness<br><br>
     	<b>Networks 3: <a href="http://neaveoclery.com">Dr Neave O'Clery</a></b><br>Network modelling of urban skill base<br><br>
     </p>
   </div>
   <div class="column">
-    <p><b>Classifying satellite imagery 1: Matt Ng</b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
+    <p><b>Classifying satellite imagery 1: <a href="https://www.ucl.ac.uk/bartlett/casa/matthew-kok-ming-ng">Matt Ng</a></b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
     	<b>Classifying satellite imagery 2: <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MCHER70">Maxim Chernetskiy</a></b><br>Raster data classification<br><br>
 	 <b>Classifying satellite imagery 3: <a href="https://scholar.google.com/citations?user=wLrJwyQAAAAJ&hl=en">Dr Andy MacLachlan</a></b><br>Working with Earth observation data<br>Applied Urban Heat Island analysis<br><br>
     </p>
