@@ -487,7 +487,7 @@ Day 2 will start by covering the skills required to perform network analysis on 
   </div>
   <div class="column">
     <p><b>Classifying satellite imagery 1: <a href="https://www.ucl.ac.uk/bartlett/casa/matthew-kok-ming-ng">Matt Ng</a></b><br>Intro to satellite data<br>Stack, mosaic and clip raster data<br><br>
-    	<b>Classifying satellite imagery 2: <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MCHER70">Maxim Chernetskiy</a></b><br>Raster data classification<br><br>
+    	<b>Classifying satellite imagery 2: <a href="https://www.researchgate.net/profile/Maxim_Chernetskiy">Dr. Maxim Chernetskiy</a></b><br>Raster data classification<br><br>
 	 <b>Classifying satellite imagery 3: <a href="https://scholar.google.com/citations?user=wLrJwyQAAAAJ&hl=en">Dr Andy MacLachlan</a></b><br>Working with Earth observation data<br>Applied Urban Heat Island analysis<br><br>
     </p>
   </div>
