@@ -415,12 +415,12 @@ Day 1 will start by introducing important statistical measures, modelling techni
 <body>
 <div class="row">
   <div class="column">
-    <p><b>Statistics 1: <a href="https://bonnie-buyuklieva.github.io/">Bonnie Buyuklieva</a></b><br>Summarise and compare data visually<br>Simple linear regression<br><br>
+    <p><b>Statistics 1: <a href="https://scholar.google.co.uk/citations?user=QWIEEB8AAAAJ&hl=en">Bonnie Buyuklieva</a></b><br>Summarise and compare data visually<br>Simple linear regression<br><br>
     	<b>Statistics 2: <a href="http://www.cantab.net/users/ghahn/">Dr Georg Hanh</a></b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
     	<b>Cluster analysis: <a href = "https://www.ucl.ac.uk/bartlett/casa/dr-thomas-evans">Dr Thomas Oléron Evans</a></b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column">
-    <p><b>Spatial data and statistics 1: <a href="https://bonnie-buyuklieva.github.io/">Bonnie Buyuklieva</a></b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
+    <p><b>Spatial data and statistics 1: <a href="https://scholar.google.co.uk/citations?user=QWIEEB8AAAAJ&hl=en">Bonnie Buyuklieva</a></b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
     	<b>Spatial data and statistics 2: <a href="https://www.robinlovelace.net/">Dr Robin Lovelace</a></b><br>Spatial data formats<br>Coordinate Reference Systems and Re-Projections<br><br>
     	<b>Spatial data and statistics 3: <a href="https://scholar.google.co.uk/citations?user=2g-hvm0AAAAJ&hl=en&oi=sra">Dr David Murrell</a></b><br>Further Spatial Statistics and Point Pattern Analysis</p>
   </div>
