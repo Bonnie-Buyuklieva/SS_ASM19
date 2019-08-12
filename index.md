@@ -422,7 +422,7 @@ Day 1 will start by introducing important statistical measures, modelling techni
   <div class="column">
     <p><b>Spatial data and statistics 1: <a href="https://scholar.google.co.uk/citations?user=QWIEEB8AAAAJ&hl=en">Bonnie Buyuklieva</a></b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
     	<b>Spatial data and statistics 2: <a href="https://www.robinlovelace.net/">Dr Robin Lovelace</a></b><br>Spatial data formats<br>Coordinate Reference Systems and Re-Projections<br><br>
-    	<b>Spatial data and statistics 3: <a href="https://scholar.google.co.uk/citations?user=2g-hvm0AAAAJ&hl=en&oi=sra">Dr David Murrell</a></b><br>Point Pattern Analysis<br>Spatial Hypothesis Testing</p>
+    	<b>Spatial data and statistics 3: <a href="https://scholar.google.co.uk/citations?user=2g-hvm0AAAAJ&hl=en&oi=sra">Dr David Murrell</a></b><br>Point Pattern Analysis<br>Spatial hypothesis testing</p>
   </div>
 </div>
 </body>
