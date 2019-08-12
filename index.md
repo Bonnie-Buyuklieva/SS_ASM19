@@ -415,14 +415,14 @@ Day 1 will start by introducing important statistical measures, modelling techni
 <body>
 <div class="row">
   <div class="column">
-    <p><b>Statistics 1: <a href="https://scholar.google.co.uk/citations?user=QWIEEB8AAAAJ&hl=en">Bonnie Buyuklieva</a></b><br>Summarise and compare data visually<br>Simple linear regression<br><br>
+    <p><b>Statistics 1: <a href="https://uk.linkedin.com/in/zahratu-shabrina-8b06a436">Zara Shabrina</a></b><br>Summarise and compare data visually<br>Simple linear regression<br><br>
     	<b>Statistics 2: <a href="http://www.cantab.net/users/ghahn/">Dr Georg Hanh</a></b><br>More regression models:<br>ANOVA, Logistic and Multiple Linear<br><br>
     	<b>Cluster analysis: <a href = "https://www.ucl.ac.uk/bartlett/casa/dr-thomas-evans">Dr Thomas Oléron Evans</a></b><br>Similarity metrics<br>K-means, median and modes<br>Measures of quality</p>
   </div>
   <div class="column">
     <p><b>Spatial data and statistics 1: <a href="https://scholar.google.co.uk/citations?user=QWIEEB8AAAAJ&hl=en">Bonnie Buyuklieva</a></b><br>UK administrative geographies<br>Spatial autocorrelation and interaction<br><br>
     	<b>Spatial data and statistics 2: <a href="https://www.robinlovelace.net/">Dr Robin Lovelace</a></b><br>Spatial data formats<br>Coordinate Reference Systems and Re-Projections<br><br>
-    	<b>Spatial data and statistics 3: <a href="https://scholar.google.co.uk/citations?user=2g-hvm0AAAAJ&hl=en&oi=sra">Dr David Murrell</a></b><br>Further Spatial Statistics and Point Pattern Analysis</p>
+    	<b>Spatial data and statistics 3: <a href="https://scholar.google.co.uk/citations?user=2g-hvm0AAAAJ&hl=en&oi=sra">Dr David Murrell</a></b><br>Point Pattern Analysis<br>Spatial Hypothesis Testing</p>
   </div>
 </div>
 </body>
@@ -482,7 +482,7 @@ Day 2 will start by covering the skills required to perform network analysis on 
   <div class="column">
     <p><b>Networks 1: <a href= "https://www.ucl.ac.uk/bartlett/casa/people/mphilphd-students/obi-thompson-sargoni">Obi Sargoni</a></b><br>Directed vs undirected graphs<br>Adjacency matrices, node degree<br>Degree distribution<br>Connectivity<br><br>
       <b>Networks 2: <a href= "https://scholar.google.co.uk/citations?user=d3-38S4AAAAJ&hl=en">Dr Elsa Arcaute</a></b><br>Centrality and betweenness<br><br>
-    	<b>Networks 3: <a href="http://neaveoclery.com">Dr Neave O'Clery</a></b><br>Network modelling of urban skill base<br><br>
+    	<b>Networks 3: <a href="http://neaveoclery.com">Dr Neave O'Clery</a></b><br>Economic networks<br><br>
     </p>
   </div>
   <div class="column">
