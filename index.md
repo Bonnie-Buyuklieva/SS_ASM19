@@ -679,7 +679,8 @@ td[colspan="3"] {
 	</tr>
 	<tr>
 		<td>18:00</td>
-		<td rowspan="4" colspan="3" bgcolor="#e3e6f2" style="color:#393939">Evening events, dinner, drinks, etc</td>
+    <td rowspan="4" bgcolor="#e3e6f2" style="color:#393939">Data Science and Industrial Strategy with CASA and the ONS Data Science Campus</td>
+		<td rowspan="4" colspan="2" bgcolor="#e3e6f2" style="color:#393939">Evening events, dinner, drinks, etc</td>
 	</tr>
 		<tr>
 		<td>18:30</td>
