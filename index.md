@@ -373,7 +373,7 @@ The objective of the syllabus is to warm participants up to key quantitative met
 ***
 
 ### Day 1
-          <iframe width= 100% height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.13606041669845584%2C51.52051684270064%2C-0.13378590345382693%2C51.52263470699012&amp;layer=mapnik&amp;marker=51.52157495269505%2C-0.13492316007614136" style="border: 1px solid black"></iframe><br/><small><a href="https://www.ucl.ac.uk/maps/1-19-torrington-place">Room B09, 1-19 Torrington Place<br>London, W1CE 7HB</a></small>
+<iframe width= 100% height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.13606041669845584%2C51.52051684270064%2C-0.13378590345382693%2C51.52263470699012&amp;layer=mapnik&amp;marker=51.52157495269505%2C-0.13492316007614136" style="border: 1px solid black"></iframe><br/><small><a href="https://www.ucl.ac.uk/maps/1-19-torrington-place">Room B09, 1-19 Torrington Place<br>London, W1CE 7HB</a></small>
 
 Day 1 will start by introducing important statistical measures, modelling techniques and cluster analysis. The second part of the day will cover working with vector spatial data and key spatial statistics.
 
